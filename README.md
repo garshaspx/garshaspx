@@ -1,5 +1,5 @@
 # 💫 Me:
-Hi, I am amirhosein ,an individual with an insatiable curiosity for all things pertaining to technology. <br>Currently, I am immersing myself in the realm of Python, working on a few projects.<br>In pursuit of honing my skills, I am actively seeking collaborative opportunities in Python projects, particularly in the realm of backend development.<br> Should you wish to connect with me and explore potential synergies.
+Hi, I am garshasp ,an individual with an insatiable curiosity for all things pertaining to technology. <br>Currently, I am immersing myself in the realm of Python, working on a few projects.<br>In pursuit of honing my skills, I am actively seeking collaborative opportunities in Python projects, particularly in the realm of backend development.<br> Should you wish to connect with me and explore potential synergies.
 
 
 # 🌐 Socials:
